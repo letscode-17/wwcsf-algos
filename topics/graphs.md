@@ -41,20 +41,20 @@ ___
 ### Easy problems
 Problem Statement | Solution | WWC example
 --- | --- | ---
-[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [leetcode's endorsed solution](https://leetcode.com/problems/find-the-town-judge/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Discussion](https://leetcode.com/problems/find-the-town-judge/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
 
 ### Medium problems
 Problem Statement | Solution | WWC example
 --- | --- | ---
-[Course Schedule](https://leetcode.com/problems/course-schedule/) | [leetcode's endorsed solution](https://leetcode.com/problems/course-schedule/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Discussion](https://leetcode.com/problems/course-schedule/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [leetcode's endorsed solution](https://leetcode.com/problems/course-schedule-ii/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
-[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [leetcode's endorsed solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
-[Clone graph](https://leetcode.com/problems/clone-graph/) | [leetcode's endorsed solution](https://leetcode.com/problems/clone-graph/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Discussion](https://leetcode.com/problems/all-paths-from-source-to-target/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Clone graph](https://leetcode.com/problems/clone-graph/) | [Discussion](https://leetcode.com/problems/clone-graph/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
 
 
 ### Hard problems
 Problem Statement | Solution | WWC example
 --- | --- | ---
-[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [leetcode's endorsed solution](https://leetcode.com/problems/couples-holding-hands/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
-[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [leetcode's endorsed solution](https://leetcode.com/problems/reconstruct-itinerary/solution) |  please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
-[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[leetcode's endorsed solution](https://leetcode.com/problems/possible-bipartition/solution/) |  please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [Discussion](https://leetcode.com/problems/couples-holding-hands/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Discussion](https://leetcode.com/problems/reconstruct-itinerary/discuss/?currentPage=1&orderBy=hot&query=) |  please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Discussion](https://leetcode.com/problems/possible-bipartition/discuss/?currentPage=1&orderBy=hot&query=) |  please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
