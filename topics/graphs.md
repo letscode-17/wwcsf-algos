@@ -41,7 +41,7 @@ ___
 ### Easy problems
 Problem Statement | Solution | WWC example
 --- | --- | ---
-[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [leetcode's endorsed solution](https://leetcode.com/problems/find-the-town-judge/solution/) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
+[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [solution discussion](https://leetcode.com/problems/find-the-town-judge/discuss/?currentPage=1&orderBy=hot&query=) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/graphs)
 
 ### Medium problems
 Problem Statement | Solution | WWC example
