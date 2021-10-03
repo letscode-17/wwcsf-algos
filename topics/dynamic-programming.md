@@ -25,7 +25,7 @@ ___
 ### Easy problems
 Problem Statement | Leetcode | Solution | WWC example
 --- | --- | --- | ---
-[Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/#tablist1-panel1) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/dynamic-programming)
+[Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/#tablist1-panel1) | [Sample Python solution](https://github.com/WomenWhoCode/wwcsf-algos/blob/master/code-examples/dynamic-programming/python/maximum_subarray.py)
 [Find maxmum possible stolen value from houses (a.k.a. "House Robber")](https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/) | [House Robber](https://leetcode.com/problems/house-robber/) | [solution](https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/#tablist1-panel1) | please contribute your solution to our [code examples!](https://github.com/WomenWhoCode/wwcsf-algos/tree/master/code-examples/dynamic-programming)
 
 ### Medium problems
