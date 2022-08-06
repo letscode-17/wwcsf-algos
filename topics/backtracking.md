@@ -29,8 +29,8 @@ There aren't any easy problems for backtracking because backtracking builds on t
 ### Medium problems
 Problem Statement | Solution | WWC example
 --- | --- | ---
-[Permutations](https://leetcode.com/problems/permutations/) | [Solution link](../code-examples/backtracking/permutations/solution.md) | please contribute your solution to our [code examples!](../code-examples/backtracking/permutations/)
-[Combination Sum](https://leetcode.com/problems/combination-sum-iii/) | [Solution link](../code-examples/backtracking/combination-sum-solution/solution.md) | please contribute your solution to our [code examples!](../code-examples/backtracking/combination-sum-solution/)
+[Permutations](https://leetcode.com/problems/permutations/) | [Solution link](../code-examples/backtracking/permutations/solution.py) | please contribute your solution to our [code examples!](../code-examples/backtracking/permutations/)
+[Combination Sum](https://leetcode.com/problems/combination-sum-iii/) | [Solution link](../code-examples/backtracking/combination-sum-solution/solution.py) | please contribute your solution to our [code examples!](../code-examples/backtracking/combination-sum-solution/)
 [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution link](https://leetcode.com/problems/palindrome-partitioning/solution/) | please contribute your solution to our [code examples!](../code-examples/backtracking)
 
 
