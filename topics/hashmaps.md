@@ -14,6 +14,8 @@ ___
 ### 2. Language-Specific Resources
 * Java: [Hash Maps](http://greenteapress.com/thinkdast/html/thinkdast012.html) from _Think Data Structures_ in Java, by Allen B. Downey
 * [Implementing the Map Abstract Data Type](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html#implementing-the-map-abstract-data-type) from _Python DS_
+* [Maps and Sets Overview](https://exploringjs.com/es6/ch_maps-sets.html) from _Exploring JS_
+* [Hash Tables](https://livebook.manning.com/book/grokking-algorithms/chapter-5/) from _Grokking Algorithms_ (A high level description of HashTables)
 
 ### 3. Code Examples
 
